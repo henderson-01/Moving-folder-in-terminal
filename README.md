@@ -1,4 +1,4 @@
-# 📂 Moving Folders with the Terminal: Quick Guide (Ubuntu/Linux) 
+# 📂 Moving Folders with the Terminal: My Quick Guide (Ubuntu/Linux) 
 
 This guide explains how to move folders using the Ubuntu Terminal. In Linux, we use the `mv` command (short for **move**).
 
