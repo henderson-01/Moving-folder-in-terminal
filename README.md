@@ -11,7 +11,8 @@ The **Home** directory is your primary "hub." While the **Desktop** is a popular
 * **Home (`~`)**: Your main folder. It is the default starting point for the Terminal.
 * **Desktop (`~/Desktop`)**: A sub-folder inside Home.
 
-> **Note on the Tilde (`~`):** In the Ubuntu Bash terminal, the `~` symbol is just a shortcut for your Home directory. If you are already "located" in your Home folder, you don't actually need to use it!
+> [!Note]
+> **The Tilde (`~`):** In the Ubuntu Bash terminal, is just a shortcut for your Home directory. If you are already "located" in your Home folder, you don't actually need to use it!
 
 ---
 
@@ -44,7 +45,8 @@ If you have a folder called `Drafts` that is sitting inside `Projects`, and you 
 * **`Projects/Drafts`**: You are telling the terminal to "Look inside Projects, then grab Drafts."
 * **`Archive/`**: This is where you want to drop it.
 
-> **Tip:** After this command, `Drafts` will no longer be inside `Projects`. It has been physically moved to `Archive`.
+> [!Tip]
+> After this command, `Drafts` will no longer be inside `Projects`. It has been physically moved to `Archive`.
 
 ---
 
