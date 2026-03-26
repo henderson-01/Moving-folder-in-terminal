@@ -1,6 +1,6 @@
 # 📂 Moving Folders and Renaming in Terminal: My Guide (Ubuntu/Linux)
 
-This guide explains how to move and rename folders and files using the Ubuntu Terminal. In Linux, we use the `mv` command (short for **move**).
+This help guide explains how to move and rename folders and files using the Ubuntu Terminal. In Linux, we use the `mv` command (short for **move**).
 
 ---
 
