@@ -63,6 +63,7 @@ mv "My Projects" Archive/
 ```
 
 ---
+
 ## ✏️ Renaming Files and Folders
 
 There is no dedicated `rename` command for this basic tasks, instead, the `mv` command is used. When you "move" a file to a location but give it a different name and the location dose not exist, the system simply renames it.
@@ -71,6 +72,7 @@ There is no dedicated `rename` command for this basic tasks, instead, the `mv` c
 > Just make sure that the new folder or file name dose not exist as this will just move it to that file or folder, If unsure use the `ls` command to check before renaming and the `-i` for safety see the *Beginner Superpowers Section* for more information. `mv -i old_folder/ new_folder/`  
 
 ### How it Works
+
 To rename an object, specify the current filename followed by the new filename:
 
 | Rename | Old to New |
@@ -79,12 +81,14 @@ To rename an object, specify the current filename followed by the new filename:
 | **Rename a Folder** | `mv old_folder/ new_folder/` |
 
 ### Example
+
 If you have a file named `notes.txt` and you want to change it to `final_notes.txt`, run:
 
 ```bash
 mv notes.txt final_notes.txt
 ```
-___
+
+---
 
 ## 💡 Beginner Superpowers
 
